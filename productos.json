@@ -1,0 +1,87 @@
+﻿[
+    {
+        "sku": "Uncharted 4",
+        "name": "Uncharted 4",
+        "price": "149",
+        "offer": "0.40",
+        "image": "Uncharted Aventura.jpg"
+    },
+    {
+        "sku": "Minecraft Dungeons",
+        "name": "Minecraft Dungeons",
+        "price": "90",
+        "offer": "0.16",
+        "image": "Minecraft Dungeons Aventura.jpg"
+    },
+    {
+        "sku": "Red Dead Redemption",
+        "name": "Red Dead Redemption",
+        "price": "210",
+        "offer": "0.60",
+        "image": "Red Dead Redemption Aventura.jpg"
+    },
+    {
+        "sku": "Outlast",
+        "name": "Outlast",
+        "price": "30",
+        "offer": "0.50",
+        "image": "Outlast Terror.jpg"
+    },
+    {
+        "sku": "Silent Hill PT",
+        "name": "Silent Hill PT",
+        "price": "80",
+        "offer": "0.40",
+        "image": "Silent Hill PT Terror.jpg"
+    },
+    {
+        "sku": "Left 4 Dead 2",
+        "name": "Left 4 Dead 2",
+        "price": "30",
+        "offer": "0.70",
+        "image": "Left 500 x500.jpg"
+    },
+    {
+        "sku": "FIFA 23",
+        "name": "FIFA 23",
+        "price": "260",
+        "offer": "0.20",
+        "image": "FIFA 500x500 real.jpg"
+    },
+    {
+        "sku": "F1 2019",
+        "name": "F1 2019",
+        "price": "100",
+        "offer": "0.20",
+        "image": "F1 Deportes.jpg"
+    },
+    {
+        "sku": "NBA 2K23",
+        "name": "NBA 2K23",
+        "price": "160",
+        "offer": "0.35",
+        "image": "NBA 2K23.jpg"
+    },
+    {
+        "sku": "Dark Souls II",
+        "name": "Dark Souls II",
+        "price": "190",
+        "offer": "0.50",
+        "image": "Dark Souls RPG.jpg"
+    },
+    {
+        "sku": "Bloodhorne",
+        "name": "Bloodhorne",
+        "price": "30",
+        "offer": "0.20",
+        "image": "Bloodhorne RPG.jpg"
+    },
+    {
+        "sku": "Elden Ring",
+        "name": "Elden Ring",
+        "price": "95",
+        "offer": "0.15",
+        "image": "Elden Ring.jpg"
+    }
+    
+]

@@ -1,0 +1,93 @@
+/* Icono de Whatsapp */
+#chatWhatsApp{
+    width: 64px;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+}
+
+/* HEADER */
+header {
+    background-image: url(../image/recursos/Banner\ 13.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/* Estilo Titulo */
+h1{
+    font-size: 3em;
+    font-family:'Press Start 2P', cursive;
+    margin: 0px;
+    text-align:center;
+    color: #069ada;
+}
+
+/* Estilo Subtitulo */
+h2{
+    font-size: 1.5em;
+    font-family:'Press Start 2P', cursive;
+    color:darkcyan;   
+}
+
+/*Articulo*/
+article {
+    max-width: 23%;
+    min-width: 280px;
+    display: inline-block;
+    margin: 52px 50px 42px;
+}
+
+/*Titulo de los Articulos*/
+article > h3 {
+    color: #1c1c1c;
+    font-family: 'Electrolize', sans-serif;
+    padding-top: 6px;
+}
+
+/*Estilo Precio Original*/
+.precioOriginal{
+    text-decoration: line-through red;
+    color:red
+}
+
+/*Estilo Precio Descuento*/
+.precioDescuento {
+    color: #78A4BF;
+    font-weight: 500;
+}
+
+/*Estilo Precio Final*/
+.precioFinal {
+    color: #006CA9;
+    font-weight: bold;
+}
+
+/*Para que cambie el color al pasar por el articulo*/
+.imgProduct:hover{
+    border: #006CA9 2px solid;
+      
+}
+
+
+/* CARRITO */
+#imageCarritoVacio{
+    width: 60%;
+}
+
+/* Estilo Texto Navegador */
+#GamingStore {
+    font-family: 'Press Start 2P', cursive;
+}
+
+#InicioyRegistrate {
+    font-family: 'Electrolize', sans-serif;
+}
+
+#ventanaCarrito span {
+    font-size: 1em;
+}
+
+#ventanaCarrito .precioDescuento, #ventanaCarrito .precioFinal{
+    font-size: 1em;
+    text-align: right;
+}
